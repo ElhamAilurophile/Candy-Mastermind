@@ -1,6 +1,8 @@
 # Candy-Mastermind-2D
-I made this game to improve my skills in Unity and game design.
-This game is trying to be fun.  Fundamentally I am trying to achieve a mastermind game with nice art. Not like usual mastermind games with boring pearls.
-Mastermind is a code-breaking game with computer and player. Candy theme make this game more fun and interesting. Computer choose four candies and put them in order. Player should guess candies and their order by using Hint Box. In Hint Box blue gummy candy bears represent for a correct candy in a correct place and white ones represent for a correct candy in a wrong place. At the end of the game player will see the result, turns that player played, time that spent, player's score and "Let's Try Again" button for playing again.
-Resource of sprites: https://www.vecteezy.com/free-vector/candy
-I made it with Unity3D but game world that player will see is 2D.
+I created this game to enhance my skills in Unity and game design. The goal was to make a fun, engaging version of the classic Mastermind game, but with a twist: I replaced the usual boring pegs with a colorful candy theme to make it more exciting.
+
+In this candy-themed version of Mastermind, the computer selects four candies in a specific order, and the player’s goal is to guess both the candies and their correct order. The Hint Box provides feedback with blue gummy bears to indicate a correct candy in the correct spot, and white gummy bears for a correct candy in the wrong spot. At the end of the game, the player is shown their score, the number of turns they took, the time spent, and a "Try Again" button to start a new round.
+
+Sprites used in the game were sourced from: https://www.vecteezy.com/free-vector/candy.
+
+Developed in Unity3D, the game world is presented in 2D to provide a clean, visually appealing interface.
